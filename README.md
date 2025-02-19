@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @muslimiin
-- 👀 I’m interested in Development Website and Apps on BackEnd and FrontEnd or Mobile Apps Development
+- 👀 I’m interested in Development Website and Apps on FullStack or Mobile Apps Development
 - 💞️ I’m looking to learn and collaborate on Project where's make my skill higher
 - 📫 Find Me on Instagram @muslimiin.id
